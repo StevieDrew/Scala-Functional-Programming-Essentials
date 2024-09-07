@@ -1,0 +1,42 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/stevmorales/Documents/Practice/ScalaTutorial/target/scala-2.11/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/stevmorales/Documents/Practice/ScalaTutorial/target/scala-2.11/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AbstractDataTypes$Animal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MethodNotations$Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AbstractDataTypes$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Inheritance.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MethodNotations$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Counter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Inheritance$Cat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AbstractDataTypes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AbstractDataTypes$Dog.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Novel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JavaPlayground.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OOBasics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Inheritance$Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AbstractDataTypes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Objects$Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Objects$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OOBasics$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AbstractDataTypes$Carnivore.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Inheritance$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MethodNotations.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Inheritance$Adult.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AbstractDataTypes$Crocodile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Inheritance$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Counter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MethodNotations$Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Objects.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MethodNotations$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Inheritance$Animal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OOBasics$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Objects$Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Writer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Inheritance$Dog.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/stevmorales/Documents/Practice/ScalaTutorial/target/scala-2.11/classes.bak[0m

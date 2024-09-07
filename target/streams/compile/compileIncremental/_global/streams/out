@@ -1,0 +1,26 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 0 products, 0 sources, 0 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/lectures/part2oop/Objects.scala, ${BASE}/src/main/scala/lectures/part2oop/AbstractDataTypes.scala, ${BASE}/src/main/scala/playground/JavaPlayground.java, ${BASE}/src/main/scala/lectures/part2oop/Inheritance.scala, ${BASE}/src/main/scala/lectures/part2oop/OOBasics.scala, ${BASE}/src/main/scala/lectures/part2oop/MethodNotations.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(${BASE}/src/main/scala/lectures/part2oop/OOBasics.scala, ${BASE}/src/main/scala/lectures/part2oop/AbstractDataTypes.scala, ${BASE}/src/main/scala/lectures/part2oop/MethodNotations.scala, ${BASE}/src/main/scala/playground/JavaPlayground.java, ${BASE}/src/main/scala/lectures/part2oop/Objects.scala, ${BASE}/src/main/scala/lectures/part2oop/Inheritance.scala), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mFull compilation, no sources in previous analysis.[0m
+[0m[[0m[0mdebug[0m] [0m[0mall 6 sources are invalidated[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all sources: number of invalidated sources > 50.0 percent of all sources[0m
+[0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 5 Scala sources and 1 Java source to /Users/stevmorales/Documents/Practice/ScalaTutorial/target/scala-2.11/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.11:1.10.1:compile for Scala 2.11.1[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 1b4fb54c for Scala compiler version 2.11.1[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/stevmorales/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/stevmorales/Documents/Practice/ScalaTutorial/target/scala-2.11/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 1.628707916 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@62a84dd6 directly...[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 0.148498167 s[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] classfile.Parser parsing playground.Person[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] classfile.Parser parsing playground.JavaPlayground[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.022044209 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 0.173616084 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m
